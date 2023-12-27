@@ -255,11 +255,7 @@
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
-                    <data>AADAhw==</data>
-                    <key>device-id</key>
-                    <data>FlkAAA==</data>
-                    <key>framebuffer-con1-enable</key>
-                    <data>AQAAAA==</data>
+                    <data>AAASWQ==</data>
                 </dict>
             </dict>
             <key>Delete</key>
@@ -981,7 +977,7 @@
                 <key>ThirdPartyDrives</key>
                 <false/>
                 <key>XhciPortLimit</key>
-                <true/>
+                <false/>
             </dict>
             <key>Scheme</key>
             <dict>
@@ -1097,7 +1093,7 @@
                 <key>ScanPolicy</key>
                 <integer>0</integer>
                 <key>SecureBootModel</key>
-                <string>Disabled</string>
+                <string>Default</string>
                 <key>Vault</key>
                 <string>Optional</string>
             </dict>
