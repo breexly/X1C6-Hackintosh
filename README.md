@@ -10,8 +10,9 @@ What should be working (no problems known):
 	-trackpad
 	-keyboard
 	-camera
+	-Airplay
+	-graphics
+	-brightness controll
 
 What are the problems:
-	-graphic is not working properly (lagging with videos etc.)
-	-Airplay
 	-
